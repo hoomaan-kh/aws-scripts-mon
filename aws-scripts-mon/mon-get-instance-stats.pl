@@ -60,7 +60,7 @@ use constant
 
 use CloudWatchClient;
 
-my $version = '1.2.2';
+my $version = '1.2.1';
 my $client_name = 'CloudWatch-GetInstanceStats';
 
 my $verify;
